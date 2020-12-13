@@ -1,0 +1,20 @@
+{
+    "status": true,
+    "message": "Request Acepted",
+    "content": {
+        "version": "20.11.2",
+        "build": 20112,
+        "description": "-Fixed Bug\n-Add Adult Content Warning\n-Add New Bug For fix Later",
+        "UpdateLink": "https://github.com/rachmanwidjaya/cw_config/blob/master/kc/kc_v_20.11.3.apk",
+        "UpdateRequired": false
+    },
+    "about": {
+        "content": [
+            "Aplikasi ini dibuat berdasarkan kegabutan yag hqq",
+        ],
+        "images": [
+            "https://raw.githubusercontent.com/cunguk1/kc_clone/main/rsz_dk2.png",
+            "https://raw.githubusercontent.com/rachmanwidjaya/cw_config/master/kc/ct.ico"
+        ]
+    }
+}
